@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/VirginiaTechTeaching
 venue: "Virginia Tech"
-date: 2016
+date: 2016-01-01
 location: "Blacksburg, VA"
 ---
 
