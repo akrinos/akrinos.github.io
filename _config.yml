@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @ariannakrinos
+  username               : "https://twitter.com/ariannakrinos"
 facebook:
   username               :
   app_id                 :
