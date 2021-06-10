@@ -1,7 +1,7 @@
 ---
 title: "Teaching at Virginia Tech"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching experiences as an undergraduate"
 permalink: /teaching/VirginiaTechTeaching
 venue: "Virginia Tech"
 date: 2016-01-01
