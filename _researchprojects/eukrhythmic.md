@@ -1,3 +1,13 @@
+---
+title: "Eukrhythmic: metatranscriptome assembly for marine eukaryotes"
+collection: research
+type: "Workshop"
+permalink: /researchprojects/eukrhythmic
+venue: "Woods Hole Oceanographic Institution"
+date: 2021-11-01
+location: "Woods Hole, MA"
+---
+
 ## Eukrhythmic: metatranscriptome assembly for marine eukaryotes
 
 The field of omics has quickly exploded into one of the most popular routes of biological inference. And this is for good reason: omics studies are *powerful*, and, increasingly, they are fast and cheap. However, the development of omics tools tends to be biased, in particular for microbes. The momentum is lost as the technology rapidly changes, and the front line of researchers quickly moves on to the latest and greatest. For this reason, bacteria get a disproportionate amount of attention as technologies develop, and tools for genomes are much more abundance than tools for transcriptomes. 
