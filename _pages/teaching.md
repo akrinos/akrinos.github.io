@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /teaching/
 title: "Teaching and Outreach Experiences"
 excerpt: "Arianna's experience with education"
 author_profile: true
