@@ -5,8 +5,5 @@ permalink: /researchprojects/
 author_profile: true
 ---
 
-{% include base_path %}
+# Research Projects!
 
-{% for post in site.researchprojects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
