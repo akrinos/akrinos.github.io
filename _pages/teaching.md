@@ -8,8 +8,6 @@ redirect_from:
   - /teaching.html
 ---
 
-# Teaching & Education
-
 ## Software Carpentries
 
 Arianna was certified with Software Carpentries in August 2020, and since has taught the following workshops:
@@ -36,6 +34,10 @@ We also talked about mark-recapture and other ecological applications of Bayesia
 [Sample course slides here!](https://drive.google.com/file/d/1XVsslU1polX_9KtjiNeR2sX1R_F0zO5s/view?usp=sharing)
 [Short blog post here](https://mitesp.home.blog/2020/07/29/dipping-my-toes-into-online-learning/)
 
+<p align="center">
+  <img src="images/wordcloud2.png" />
+</p>
+
 ## Spark!, Spring 2020
 
 Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a virtual classroom of high school students in Spring 2020 as part of the Spark! curriculum offered by MIT's Educational Studies Program (ESP).
@@ -45,7 +47,7 @@ Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a
 Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
 
 <p align="center">
-  <img src="images/IMG_2178.JPG" />
+  <img src="images/IMG_2178.jpg" />
 </p>
 
 ## Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
