@@ -3,9 +3,6 @@ permalink: /teaching/
 title: "Teaching and Outreach Experiences"
 excerpt: "Arianna's experience with education"
 author_profile: true
-redirect_from: 
-  - /teaching/
-  - /teaching.html
 ---
 
 ## Software Carpentries
