@@ -32,7 +32,7 @@ We also talked about mark-recapture and other ecological applications of Bayesia
 [Short blog post here](https://mitesp.home.blog/2020/07/29/dipping-my-toes-into-online-learning/)
 
 <p align="center">
-  <img src="images/wordcloud2.png" />
+  <img src="../images/wordcloud2.png" />
 </p>
 
 ## Spark!, Spring 2020
@@ -44,7 +44,7 @@ Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a
 Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
 
 <p align="center">
-  <img src="images/IMG_2178.jpg" />
+  <img src="../images/IMG_2178.jpg" />
 </p>
 
 ## Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
@@ -59,12 +59,12 @@ Examples include:
 - John Carlson Lecture, MIT (at New England Aquarium)
 
 <p align="center">
-  <img src="images/IMG_2372.JPG" />
+  <img src="../images/IMG_2372.JPG" />
 </p>
 
 
 <p align="center">
-  <img src="images/IMG_2360.JPG" />
+  <img src="../images/IMG_2360.JPG" />
 </p>
 
 ## Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 

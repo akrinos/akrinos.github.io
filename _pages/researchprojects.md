@@ -14,5 +14,5 @@ But *metatranscriptomics*, or the measurement of the expression levels of an ent
 I am interested in marine microbial eukaryotes, or protists, which present the secondary challenge that a lot of omics tools are not developed for eukaryotic organisms. For this reason, I have developed *euk*`rhythmic`, a metatranscriptomic pipeline that consolidates the output of multiple individual assemblers to produce a cohesive assembly process that can be used for downstream analysis and posing meaningful biological and oceanographic questions.
 
 <p align="center">
-  <img src="images/eukrhythmic_June2021.png" />
+  <img src="../images/eukrhythmic_June2021.png" />
 </p>
