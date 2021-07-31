@@ -22,6 +22,17 @@ In addition, Arianna has been a helper at the following workshops:
 
 Arianna assisted the class as a TA, including developing and teaching course materials on [transcriptomics](https://github.com/MBL-Physiology-Bioinformatics/2021-Bioinformatics-Tutorial-Materials/tree/master/transcriptomics).
 
+## Broader Impacts Group: Teaching and Presentations in Camps & Schools
+
+As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching and outreach support to local Massachusetts-area schools. Below is a recorded presentation from a virtual outreach opportunity.
+
+
+
+
+## Summer 2021 HSSP: Modeling Demographic Dynamics in Human Populations
+
+Arianna co-taught a 3-week course on Demographic Modeling (including human and bacterial populations) in Summer 2021, many of the students being of high-school age.
+
 ## Summer 2020 HSSP: Bayesian Statistics & Biological Applications
 
 In Summer 2020, Arianna co-taught a 6-week course on Bayesian statistics to a group of nearly 40 students, mainly of high school age. This class included Bayesian statistics basics and specific applications to biology. Part of this was a use case for coronavirus research, because this course overlapped with the early- to mid-stages of the COVID-19 pandemic. One specific example was how likely it was that a person had been infected with COVID-19, given that they had tested positive for antibodies.
@@ -66,6 +77,37 @@ Examples include:
 <p align="center">
   <img src="../images/IMG_2360.JPG" />
 </p>
+
+### Virginia Tech Science Festival
+
+Arianna designed and led activities about the importance of writing and communication in science & engineering as editor-in-chief of student-led magazine _Engineers' Forum_
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/vtscifest.png" />
+</p>
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/engineers_forum.jpg" />
+</p>
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/vtscifest_2.png" />
+</p>
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/stormtroopers.png" />
+</p>
+
+Arianna's designs for educational materials on local streams for an exhibit led by members of the Virginia Tech Stream Team.
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/buildastream.png" />
+</p>
+
+<p align="center" style="max-width:60%;">
+  <img src="../images/streamteam_present.png" />
+</p>
+
 
 ## Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 
 
