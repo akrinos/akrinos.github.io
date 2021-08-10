@@ -4,13 +4,14 @@ title: "Teaching and Outreach Experiences"
 excerpt: "Arianna's experience with education"
 author_profile: true
 ---
-
+<style>
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
 }
+</style>
 
 ## Software Carpentries
 
