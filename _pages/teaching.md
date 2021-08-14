@@ -30,13 +30,13 @@ In addition, Arianna has been a helper at the following workshops:
 
 In Summer 2021, Arianna taught a course about the intersection between math and environmental science to a group of 11 elementary and middle school-age children. Arianna had a fantastic time learning more about science communication, and how to market math to a group of naturalists...and to entice mathematicians to care about important word problems!
 
-<p align="center" class="center">
+<center><p align="center" class="center">
   <img src="../images/IMG_2326_site.jpg" />
-</p>
+</p></center>
 
-<p align="center" class="center">
+<center><p align="center" class="center">
   <img src="../images/IMG_6107_critters.JPG" />
-</p>
+</p></center>
 
 
 ## Marine Biological Laboratory Physiology Course Bioinformatics Bootcamp
@@ -67,9 +67,9 @@ We also talked about mark-recapture and other ecological applications of Bayesia
 
 [Short blog post here](https://mitesp.home.blog/2020/07/29/dipping-my-toes-into-online-learning/)
 
-<p align="center" class="center">
+<center><p align="center">
   <img src="../images/wordcloud2.png" />
-</p>
+</p></center>
 
 ## Spark!, Spring 2020
 
@@ -79,9 +79,9 @@ Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a
 
 Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
 
-<p align="center" class="center">
+<center><p align="center">
   <img src="../images/IMG_2178.jpg" />
-</p>
+</p></center>
 
 ## Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
 
@@ -94,44 +94,44 @@ Examples include:
 - Girls' Day at the MIT Museum
 - John Carlson Lecture, MIT (at New England Aquarium)
 
-<p align="center" class="center">
+<center><p align="center" class="center">
   <img src="../images/IMG_2372.JPG" />
-</p>
+</p></center>
 
 
-<p align="center" class="center">
+<center><p align="center" class="center">
   <img src="../images/IMG_2360.JPG" />
-</p>
+</p></center>
 
 ### Virginia Tech Science Festival
 
 Arianna designed and led activities about the importance of writing and communication in science & engineering as editor-in-chief of student-led magazine _Engineers' Forum_
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/vtscifest.png" />
-</p>
+</p></center>
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/engineers_forum.jpg" />
-</p>
+</p></center>
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/vtscifest_2.png" />
-</p>
+</p></center>
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/stormtroopers.png" />
-</p>
+</p></center>
 
 Arianna's designs for educational materials on local streams for an exhibit led by members of the Virginia Tech Stream Team.
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/buildastream.png" />
-</p>
+</p></center>
 
-<p align="center" class="center" style="max-width:60%;">
+<center><p align="center" class="center" style="max-width:60%;">
   <img src="../images/streamteam_present.png" />
-</p>
+</p></center>
 
 
 ## Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 

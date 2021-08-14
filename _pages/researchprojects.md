@@ -7,9 +7,9 @@ author_profile: true
 
 ## Eukrhythmic: metatranscriptome assembly for marine eukaryotes
 
-<p align="center">
+<center><p align="center" style="max-width:60%;">
   <img src="../images/eukrhythmic_June2021.png" />
-</p>
+</p></center>
 
 The field of omics has quickly exploded into one of the most popular routes of biological inference. And this is for good reason: omics studies are *powerful*, and, increasingly, they are fast and cheap. However, the development of omics tools tends to be biased, in particular for microbes. The momentum is lost as the technology rapidly changes, and the front line of researchers quickly moves on to the latest and greatest. For this reason, bacteria get a disproportionate amount of attention as technologies develop, and tools for genomes are much more abundance than tools for transcriptomes. 
 
@@ -25,11 +25,12 @@ I am interested in marine microbial eukaryotes, or protists, which present the s
 
 _Emiliania huxleyi_ is a globally-important coccolithophore, or calcifying phytoplankton species, in the haptophyte group. With a complex "pan-genome" identified and described for this commonly-studied lab alga, it provides the perfect test bed for exploring capacity for thermal acclimation in marine phytoplankton. To this end, I am combining laboratory experiments with 'omics-based understanding and models to decode the factors that make thermal acclimation possible in laboratory strains of this species, and to use this understanding to inform prediction of species ranges in the ocean in the future.
 
-<p align="center">
-  <img src="../images/largevol_experiment.jpg" />
+<p align="center" style="max-width:60%;">
+  <img src="../images/largevol_experiment.jpeg" />
 </p>
 
 This project involves ongoing long-term culture experiments as well as sequencing prior to and following the dynamic process of thermal acclimation. In all, I will grow and measure >12 strains of _Emiliania huxleyi_ in the lab by the time the project concludes.
 
 ## Probing the ecological community of Lake Mendota using time series metagenomics
 
+Long-term modeling of the ecology of Lake Mendota has resulted in a consortium of tools and datasets which can be used to draw inference on the health of the ecosystem. One of these resources is a vast, nearly 20-year time series of the diversity of the lake as assessed by metagenomics. As part of an internship with the Joint Genome Institute, I collaborated with researchers at the University of Wisconsin to analyze metagenomic data from the last 20 years at this site.
