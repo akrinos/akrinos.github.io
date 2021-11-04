@@ -25,9 +25,9 @@ I am interested in marine microbial eukaryotes, or protists, which present the s
 
 _Emiliania huxleyi_ is a globally-important coccolithophore, or calcifying phytoplankton species, in the haptophyte group. With a complex "pan-genome" identified and described for this commonly-studied lab alga, it provides the perfect test bed for exploring capacity for thermal acclimation in marine phytoplankton. To this end, I am combining laboratory experiments with 'omics-based understanding and models to decode the factors that make thermal acclimation possible in laboratory strains of this species, and to use this understanding to inform prediction of species ranges in the ocean in the future.
 
-<p align="center" style="max-width:60%;">
+<center><p align="center" style="max-width:60%;">
   <img src="../images/largevol_experiment.jpeg" />
-</p>
+</p></center>
 
 This project involves ongoing long-term culture experiments as well as sequencing prior to and following the dynamic process of thermal acclimation. In all, I will grow and measure >12 strains of _Emiliania huxleyi_ in the lab by the time the project concludes.
 
