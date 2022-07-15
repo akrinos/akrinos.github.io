@@ -13,6 +13,19 @@ author_profile: true
 }
 </style>
 
+## Course design: phytoplankton physiology & ecology
+
+Arianna designed a course in Fall 2021 on Phytoplankton Physiology & Ecology. Some of the materials for the seminar are maintained [here](https://2021-phyto-phys.readthedocs.io/en/latest/index.html). Arianna co-taught the course in Fall 2021 (with her advisor Mick Follows).
+
+## Teaching Assistant for 7.470: Biological Oceanography
+
+Arianna was the TA for the Spring 2022 offering of biological oceanography, which is the first-year required course for the MIT-WHOI Joint Program in Biological Oceanography. As part of this role, she prepared recitation presentations and exam reviews, and helped students learn field skills on a one-day oceanographic day trip on the R/V Tioga.
+
+<center><p align="center" class="center">
+  <img src="../images/IMG_1339.jpeg" />
+</p></center>
+
+
 ## Software Carpentries
 
 Arianna was certified with Software Carpentries in August 2020, and since has taught the following workshops:
@@ -46,7 +59,6 @@ Arianna assisted the class as a TA, including developing and teaching course mat
 ## Broader Impacts Group: Teaching and Presentations in Camps & Schools
 
 As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching and outreach support to local Massachusetts-area schools. Below is a recorded presentation from a virtual outreach opportunity.
-
 
 
 ## Summer 2021 HSSP: Modeling Demographic Dynamics in Human Populations
