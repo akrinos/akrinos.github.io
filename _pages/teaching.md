@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching and Outreach Experiences"
+title: "Teaching and Outreach are an Essential Part of Research"
 excerpt: "Arianna's experience with education"
 author_profile: true
 ---
