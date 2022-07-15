@@ -16,6 +16,4 @@ Education
 * B.S. in Computational Modeling and Data Analytics, Virginia Tech, 2019
 * Ph.D in Biological Oceanography, MIT-WHOI Joint Program, 2024 (expected)
 
-<iframe src="../files/CV_Academic_Feb2021.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
-
-You can view a full copy of Arianna's CV [here](https://drive.google.com/file/d/1aZoUgtvcwiZWqRqdt8hqiP6zL8ppkPEu/view?usp=sharing).
+<iframe src="../files/akrinos_15July2022.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
