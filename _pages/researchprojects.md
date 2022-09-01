@@ -29,6 +29,15 @@ I am interested in marine microbial eukaryotes, or protists, which present the s
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/Ww0iWvUqs-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Disentangling the role of population and community ecology in algal blooms
+
+The reason I got into science to begin with was a fascination with algal blooms and water quality, and coastal ecological questions continue to motivate my research. I have the fantastic opportunity to collaborate with Dr. Margaret Mars Brisbin and the Center for Coastal Studies in Provincetown, MA to assess _in situ_ algal bloom formation. We're doing this using a long-term cell count, nutrient, and climatological dataset coupled with 2-3 years of field metatranscriptomes. I am looking for changes in coastal _E. huxleyi_ abundances in concert with documentated changes in the abundance of the haptophyte _Phaeocystis pouchetii_. 
+
+<center><p align="center" style="max-width:60%;">
+  <img src="../images/provincetown.jpg" />
+</p></center>
+
+
 ## Exploring the basis for thermal acclimation in _Emiliania huxleyi_
 
 _Emiliania huxleyi_ is a globally-important coccolithophore, or calcifying phytoplankton species, in the phylum Haptophyta. With a complex "pan-genome" identified and described for this commonly-studied lab alga, it provides the perfect test bed for exploring capacity for thermal acclimation in marine phytoplankton. To this end, I am combining laboratory experiments with 'omics-based understanding and models to decode the factors that make thermal acclimation possible in laboratory strains of this species, and to use this understanding to inform prediction of future species ranges in the ocean.
