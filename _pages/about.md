@@ -16,7 +16,21 @@ Arianna Krinos is a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI J
 
 ### Aquatic microbial community ecology
 
-Arianna is interested in phytoplankton ecology, specifically protistan diversity in the oceans, particularly in coastal environments. In order to assess and catalog population and community diversity in these communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. Strain diversity and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is a certified Software Carpentries instructor, and is excited about pursuing diverse teaching opportunities, especially those that involve math and computation. She always learns a lot from the teaching process!
+Arianna considers herself a protistan biologist, an ecosystem ecologist, and a computational scientist. What does this mean? Arianna's goal is to understand the largely unexplored puzzle piece filled by protists - what role do protists play in an ecosystem, and how does it affect accounting of nutrients and other resources nearby?
+
+<center> <p align="center" style="max-width:60%;">
+  <img src="../images/protist_ecology_axes.png" />
+</p></center>
+
+Specifically, Arianna is interested in the *taxonomy* axis of aquatic protistan diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions.
+
+So where does the computational scientist part come in? In order to assess and catalog population and community diversity in protistan communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. Arianna focuses on protistan diversity in aquatic systems, particularly in coastal environments. Biodiversity is challenging to assess. In diverse protistan communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate their activity* in situ, and comparative assessment of observed population genetic strain diversity and theoretical predictions from models. 
+
+<center> <p align="center" style="max-width:60%;">
+  <img src="../images/research_logo_tagged.png" />
+</p></center>
+
+As a computational scientist, Arianna is a certified Software Carpentries instructor, and is excited about pursuing diverse teaching opportunities, especially those that involve math and computation. She always learns a lot from the teaching process!
 
 
 ### Life at Virginia Tech
