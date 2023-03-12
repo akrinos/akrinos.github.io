@@ -1,6 +1,6 @@
 ---
 permalink: /teaching/
-title: "Teaching and Outreach are an Essential Part of Research"
+title: "Arianna's Teaching and Outreach"
 excerpt: "Arianna's experience with education"
 author_profile: true
 ---
@@ -13,11 +13,23 @@ author_profile: true
 }
 </style>
 
-## Course design: phytoplankton physiology & ecology
+## Philosophy on teaching
+
+Arianna believes teaching to be just as important as scholarly research, and her own experiences with teaching have both informed and redirected her research pursuits. Arianna has teaching interests in data science, statistics, and computational science, and ecology and environmental science, in particular aquatic ecology.
+
+### Fall 2022 outreach experiences
+
+Fall 2023 outreach experiences included representing WHOI at Junior Achievement's [career fair](https://twitter.com/WHOI/status/1606032077954113542), at Keith Middle School's fall [Science Nights of Wonder](https://www.linkedin.com/posts/woods-hole-oceanographic-institution_inspiration-whoi-mitabrwhoi-activity-7011797797599367168-L6Eb?utm_source=share&utm_medium=member_desktop), and in K-12 classrooms. Thanks to so many awesome people for putting these opportunities together for us to share what we do and why we love aquatic ecology and several other ocean disciplines!
+
+<center><p align="center" class="center">
+  <img src="../images/BIGScience.jpg" />
+</p></center>
+
+### Course design: phytoplankton physiology & ecology
 
 Arianna designed a course in Fall 2021 on Phytoplankton Physiology & Ecology. Some of the materials for the seminar are maintained [here](https://2021-phyto-phys.readthedocs.io/en/latest/index.html). Arianna co-taught the course in Fall 2021 (with her advisor Mick Follows).
 
-## Teaching Assistant for 7.470: Biological Oceanography
+### Teaching Assistant for MIT 7.470: Biological Oceanography
 
 Arianna was the TA for the Spring 2022 offering of biological oceanography, which is the first-year required course for the MIT-WHOI Joint Program in Biological Oceanography. As part of this role, she prepared recitation presentations and exam reviews, and helped students learn field skills on a one-day oceanographic day trip on the R/V Tioga.
 
@@ -26,7 +38,7 @@ Arianna was the TA for the Spring 2022 offering of biological oceanography, whic
 </p></center>
 
 
-## Software Carpentries
+### Software Carpentries
 
 Arianna was certified with Software Carpentries in August 2020, and since has taught the following workshops:
 
@@ -39,7 +51,7 @@ In addition, Arianna has been a helper at the following workshops:
 - R and the Shell, June 2020, *helper*
 - Data Science, October 2020, [*helper*](https://k-rns.github.io/2020-10-26-WHOI-Data/)
 
-## Falmouth Summer Academy
+### Falmouth Summer Academy
 
 In Summer 2021, Arianna taught a course about the intersection between math and environmental science to a group of 11 elementary and middle school-age children. Arianna had a fantastic time learning more about science communication, and how to market math to a group of naturalists...and to entice mathematicians to care about important word problems!
 
@@ -52,24 +64,20 @@ In Summer 2021, Arianna taught a course about the intersection between math and 
 </p></center>
 
 
-## Marine Biological Laboratory Physiology Course Bioinformatics Bootcamp
+### Marine Biological Laboratory Physiology Course Bioinformatics Bootcamp
 
 Arianna assisted the class as a TA, including developing and teaching course materials on [transcriptomics](https://github.com/MBL-Physiology-Bioinformatics/2021-Bioinformatics-Tutorial-Materials/tree/master/transcriptomics).
 
-## Broader Impacts Group: Teaching and Presentations in Camps & Schools
 
-As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching and outreach support to local Massachusetts-area schools. Below is a recorded presentation from a virtual outreach opportunity.
-
-
-## Summer 2021 HSSP: Modeling Demographic Dynamics in Human Populations
+### Summer 2021 HSSP: Modeling Demographic Dynamics in Human Populations
 
 Arianna co-taught a 3-week course on Demographic Modeling (including human and bacterial populations) in Summer 2021, many of the students being of high-school age.
 
-## Summer 2021 Educational Studies Program: Ocean Phytoplankton and Coccolithophores
+### Summer 2021 Educational Studies Program: Ocean Phytoplankton and Coccolithophores
 
 In August 2021, Arianna gave a lecture about ocean phytoplankton and biogeochemistry to a classroom of 75+ high school students...on a Saturday!
 
-## Summer 2020 HSSP: Bayesian Statistics & Biological Applications
+### Summer 2020 HSSP: Bayesian Statistics & Biological Applications
 
 In Summer 2020, Arianna co-taught a 6-week course on Bayesian statistics to a group of nearly 40 students, mainly of high school age. This class included Bayesian statistics basics and specific applications to biology. Part of this was a use case for coronavirus research, because this course overlapped with the early- to mid-stages of the COVID-19 pandemic. One specific example was how likely it was that a person had been infected with COVID-19, given that they had tested positive for antibodies.
 
@@ -83,11 +91,11 @@ We also talked about mark-recapture and other ecological applications of Bayesia
   <img src="../images/wordcloud2.png" />
 </p></center>
 
-## Spark!, Spring 2020
+### Spark!, Spring 2020
 
 Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a virtual classroom of high school students in Spring 2020 as part of the Spark! curriculum offered by MIT's Educational Studies Program (ESP).
 
-## Kindergarten-2-College Presenter/Educator, Virginia Tech
+### Kindergarten-2-College Presenter/Educator, Virginia Tech
 
 Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
 
@@ -95,7 +103,7 @@ Hosted short courses on the intersection of science and writing/journalism as Ed
   <img src="../images/IMG_2178.jpg" />
 </p></center>
 
-## Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
+### Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
 
 Examples include developing presentation and educational resources for stream ecology booths, heading up a science-writing intersection booth with *Engineers' Forum*, and creating an activity on the juvenile vs. adult phase of sharks and fishes themed off of popular children's song "Baby Shark".
 
@@ -146,31 +154,38 @@ Arianna's designs for educational materials on local streams for an exhibit led 
 </p></center>
 
 
-## Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 
+### Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 
 
 Led a course in which we read and discussed three books pertaining to the impacts of media on "Generation Z", in particular the rise of networks like Nickelodeon. 
 
 
-## Peer Educator/Instructor, Honors First-Year Seminar (Fall 2016)
+### Peer Educator/Instructor, Honors First-Year Seminar (Fall 2016)
 
 Taught a class of first-year undergraduates in the Honors program, in particular about strategies for success in college, obtaining research and other experiences as an undergraduate, and making ample use of the Honors program and scholarship resources. 
 
 
-## Peer Educator/Instructor, Honors Reading Seminar (Spring 2017)
+### Peer Educator/Instructor, Honors Reading Seminar (Spring 2017)
 
 Led a reading-based course on climate change and the Anthropocene. Included developing course materials, leading discussions, and inviting guest speakers.
 
 
-## Ambassador, General Engineering (2015-2017)
+### Ambassador, General Engineering (2015-2017)
 
 Arianna mentored current first-year and prospective first-year students in the General Engineering program, and represented the department at recruiting events.
 
 
-## Ambassador, Department of Computer Science (2018-2019)
+### Ambassador, Department of Computer Science (2018-2019)
 
 Arianna helped mentor current and prospective undergraduates in Computer Science and represented the department at recruiting events. 
 
 
-## Teaching Assistant, Biology Orientation Seminar (Fall 2017)
+### Teaching Assistant, Biology Orientation Seminar (Fall 2017)
 
 Arianna was a teaching assistant for first-year course in Biological Sciences, including advising and mentoring students and grading assignments.
+
+## Ongoing activities during graduate school
+
+
+### Broader Impacts Group: Teaching and Presentations in Camps & Schools
+
+As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching and outreach support to local Massachusetts-area schools. Below is a recorded presentation from a virtual outreach opportunity.

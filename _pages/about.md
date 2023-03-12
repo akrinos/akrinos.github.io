@@ -16,7 +16,7 @@ Arianna Krinos is a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI J
 
 ### Aquatic microbial community ecology
 
-Arianna considers herself a protistan biologist, an ecosystem ecologist, and a computational scientist. What does this mean? Arianna's goal is to understand the largely unexplored puzzle piece filled by protists - what role do protists play in an ecosystem, and how does it affect accounting of nutrients and other resources nearby?
+Arianna considers herself a protistan biologist, an aquatic ecosystem ecologist, and a computational scientist. What does this mean? Arianna's goal is to understand the largely unexplored puzzle piece filled by protists, primarily the photosynthesizing eukaryotic phytoplankton - what role do protists play in an ecosystem, and how does it affect accounting of nutrients and other resources nearby?
 
 <center> <p align="center" style="max-width:60%;">
   <img src="../images/protist_ecology_axes.png" />
