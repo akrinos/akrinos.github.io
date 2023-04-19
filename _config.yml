@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Coccolithophores & Computing"
 title_separator          : "-"
-name                     : &name "Arianna Krinos"
+name                     : &name "Arianna Krinos-Quinn"
 description              : &description "Ph.D. Candidate in Biological Oceanography | Phytoplankton Ecologist | Computational & Data Scientist | Educator"
 url                      : https://akrinos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

@@ -47,7 +47,3 @@ _Emiliania huxleyi_ is a globally-important coccolithophore, or calcifying phyto
 </p></center>
 
 This project involves ongoing long-term culture experiments as well as sequencing prior to and following the dynamic process of thermal acclimation. In all, I will grow and measure >12 strains of _Emiliania huxleyi_ in the lab by the time the project concludes.
-
-## Probing the ecological community of Lake Mendota using time series metagenomics
-
-Long-term modeling of the ecology of Lake Mendota has resulted in a consortium of tools and datasets which can be used to draw inference on the health of the ecosystem. One of these resources is a vast, nearly 20-year time series of the diversity of the lake as assessed by metagenomics. As part of an internship with the Joint Genome Institute, I collaborated with researchers at the University of Wisconsin to analyze metagenomic data from the last 20 years at this site.

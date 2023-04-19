@@ -19,7 +19,7 @@ Arianna believes teaching to be just as important as scholarly research, and her
 
 ### Fall 2022 outreach experiences
 
-Fall 2023 outreach experiences included representing WHOI at Junior Achievement's [career fair](https://twitter.com/WHOI/status/1606032077954113542), at Keith Middle School's fall [Science Nights of Wonder](https://www.linkedin.com/posts/woods-hole-oceanographic-institution_inspiration-whoi-mitabrwhoi-activity-7011797797599367168-L6Eb?utm_source=share&utm_medium=member_desktop), and in K-12 classrooms. Thanks to so many awesome people for putting these opportunities together for us to share what we do and why we love aquatic ecology and several other ocean disciplines!
+Fall 2022 outreach experiences included representing WHOI at Junior Achievement's [career fair](https://twitter.com/WHOI/status/1606032077954113542), at Keith Middle School's fall [Science Nights of Wonder](https://www.linkedin.com/posts/woods-hole-oceanographic-institution_inspiration-whoi-mitabrwhoi-activity-7011797797599367168-L6Eb?utm_source=share&utm_medium=member_desktop), and in K-12 classrooms. Thanks to so many awesome people for putting these opportunities together for us to share what we do and why we love aquatic ecology and several other ocean disciplines!
 
 <center><p align="center" class="center">
   <img src="../images/BIGScience.jpg" />

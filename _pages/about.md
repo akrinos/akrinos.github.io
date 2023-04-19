@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Arianna Krinos is a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
+Arianna Krinos-Quinn is a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
 
 <center> <p align="center" style="max-width:60%;">
   <img src="../images/cleatus.jpg" />
