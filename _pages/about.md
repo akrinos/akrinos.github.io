@@ -16,7 +16,7 @@ Arianna Krinos Quinn is a Ph.D. Candidate in Biological Oceanography in the MIT-
 
 ### Microbial community ecology
 
-Arianna considers herself a microbial ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton and their other microbial consortia in ecosystems, and how these roles affect accounting of nutrients and other resources.
+Arianna considers herself a microbial ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton and other microbial consortia in ecosystems, and how these roles affect accounting of nutrients and other resources.
 
 <center> <p align="center" style="max-width:60%;">
   <img src="../images/protist_ecology_axes.png" />
