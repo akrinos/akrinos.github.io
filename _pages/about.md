@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "In defense of the ubiquitous & essential protists whose diversity drives life on Earth"
+title: "Exploring microbes and the Earth system"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,17 +14,17 @@ Arianna Krinos Quinn is a Ph.D. Candidate in Biological Oceanography in the MIT-
   <img src="../images/cleatus.jpg" />
 </p></center>
 
-### Aquatic microbial community ecology
+### Microbial community ecology
 
-Arianna considers herself a protistan biologist, an aquatic ecosystem ecologist, and a computational scientist. What does this mean? Arianna's goal is to understand the largely unexplored puzzle piece filled by protists, primarily the photosynthesizing eukaryotic phytoplankton - what role do protists play in an ecosystem, and how does it affect accounting of nutrients and other resources nearby?
+Arianna considers herself a microbial ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton and their other microbial consortia in ecosystems, and how these roles affect accounting of nutrients and other resources.
 
 <center> <p align="center" style="max-width:60%;">
   <img src="../images/protist_ecology_axes.png" />
 </p></center>
 
-Specifically, Arianna is interested in the *taxonomy* axis of aquatic protistan diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions.
+Specifically, Arianna is interested in the *taxonomy* axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity as a covariate of the responsiveness of microbial traits to environmental perturbations.
 
-So where does the computational scientist part come in? In order to assess and catalog population and community diversity in protistan communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. Arianna focuses on protistan diversity in aquatic systems, particularly in coastal environments. Biodiversity is challenging to assess. In diverse protistan communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate their activity* in situ, and comparative assessment of observed population genetic strain diversity and theoretical predictions from models. 
+So where does the computational scientist part come in? In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. Arianna focuses on diversity in aquatic systems. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate microbial activity* in situ, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
 
 <center> <p align="center" style="max-width:60%;">
   <img src="../images/research_logo_tagged.png" />
@@ -43,4 +43,4 @@ Arianna graduated from Virginia Tech with degrees in Biological Sciences, Comput
 
 ### Broader interests
 
-When not in the classroom or lab, Arianna enjoys scrapbooking, yoga, swimming, and visiting her families in Florida, New Jersey, and Virginia, including her four younger siblings and her two nephews.
+When not in the classroom or lab, Arianna enjoys scrapbooking, yoga, swimming, and visiting her families in Florida, New Jersey, and Virginia, including her four younger siblings.
