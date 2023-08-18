@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Arianna Krinos Quinn is a microbiologist, a computational scientist, and a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
+Arianna Krinos Quinn is a microbiologist, a computational scientist, an educator, and a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
 
 
 <center> <p align="center" style="max-width:80%;">
   <img src="../images/biorender.png" />
 </p></center>
+
+During the 2023-2024 academic year, Arianna is a Teaching Development Fellow with the MIT Teaching & Learning Lab.
 
 ### Microbial community ecology
 

@@ -4,23 +4,33 @@ title: "Arianna's Teaching and Outreach"
 excerpt: "Arianna's experience with education"
 author_profile: true
 ---
-<style>
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-</style>
 
 ## Philosophy on teaching
 
-Arianna believes teaching to be just as important as scholarly research, and her own experiences with teaching have both informed and redirected her research pursuits. Arianna has teaching interests in data science, statistics, and computational science, and ecology and environmental science, in particular aquatic ecology.
+Arianna believes teaching to be **equally important** to scholarly research. Developing learning materials, mentoring students, and participating in outreach is **critical to improving access to education in diverse populations**. Arianna's experiences with teaching have both informed and redirected her research pursuits. Arianna has teaching interests in data science, computational science, physiology, and ecology and environmental science, in particular aquatic ecology.
+
+Computational science suffers from below-average diversity because of a lack of effective teaching and outreach (Lang et al. 2016). Arianna is committed to creating inclusive learning experiences that illustrate the power of computing approaches across disciplines.
+
+### Summer 2023 Woods Hole Science Stroll
+
+Approximately **1,800 visitors** were counted strolling on the dock at WHOI this year for the annual Woods Hole Science Stroll event, the first since before the pandemic! We were so glad to be able to represent the efforts of the Broader Impacts Group (BIG) at this year's event.
+
+<center><p align="center" class="center">
+  <img src="../images/sciencestroll_2023_2.png" />
+</p></center>
+
+<center><p align="center" class="center">
+  <img src="../images/sciencestroll_2023.png" />
+</p></center>
+
+### Summer 2023 Summer Math Review
+
+Arianna taught a short course in `R` programming as part of WHOI's annual Summer Math Review. Exercises from the course can be accessed [here](https://github.com/akrinos/2023-math-review-R).
 
 ### Spring 2023 STEAM night
 
 <center><p align="center" class="center">
-  <img src="../images/steam_night.png" />
+  <img src="../images/steam_night.jpg" />
 </p></center>
 
 ### Fall 2022 outreach experiences
@@ -53,6 +63,7 @@ Arianna was certified with Software Carpentries in August 2020, and since has ta
 
 In addition, Arianna has been a helper at the following workshops:
 
+- R and the Shell, June 2023, *helper*
 - Python and the Shell, June 2020, *helper*
 - R and the Shell, June 2020, *helper*
 - Data Science, October 2020, [*helper*](https://k-rns.github.io/2020-10-26-WHOI-Data/)
@@ -195,3 +206,7 @@ Arianna was a teaching assistant for first-year course in Biological Sciences, i
 ### Broader Impacts Group: Teaching and Presentations in Camps & Schools
 
 As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching and outreach support to local Massachusetts-area schools. Below is a recorded presentation from a virtual outreach opportunity.
+
+#### References
+
+Lang, C., Craig, A., & Egan, M. (2016). The importance of outreach programs to unblock the pipeline and broaden diversity in ICT education. International Journal of Information and Communication Technology Education (IJICTE), 12(1), 38-49.
