@@ -16,11 +16,11 @@ Computational science suffers from below-average diversity because of a lack of 
 Approximately **1,800 visitors** were counted strolling on the dock at WHOI this year for the annual Woods Hole Science Stroll event, the first since before the pandemic! We were so glad to be able to represent the efforts of the Broader Impacts Group (BIG) at this year's event.
 
 <center><p align="center" class="center">
-  <img src="../images/sciencestroll_2023_2.png" />
+  <img src="../images/sciencestroll_2023.jpg" />
 </p></center>
 
 <center><p align="center" class="center">
-  <img src="../images/sciencestroll_2023.png" />
+  <img src="../images/sciencestroll_2023.jpg" />
 </p></center>
 
 ### Summer 2023 Summer Math Review
