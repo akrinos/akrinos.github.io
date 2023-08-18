@@ -13,8 +13,8 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 1.3em;
 
 @font-face {
-    font-family: 'Avenir';
-    src: "../assets/fonts/AvenirLTStd-Black" 
+    font-family: 'DMSans';
+    src: "../assets/fonts/DMSans_18pt-Regular" 
 }
 @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&display=swap');
 /* system typefaces */
@@ -59,8 +59,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #F2FAFF;
-$background-color           : #F2FAFF;
+$body-color                 : #FFFFFF;
+$background-color           : #FFFFFF;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : #000000;

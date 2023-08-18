@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Exploring environmental microbes using computational tools"
+title: "Environmental microbes and computational tools"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Arianna Krinos Quinn is a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
+Arianna Krinos Quinn is a microbiologist, a computational scientist, and a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
 
 
-<center> <p align="center" style="max-width:60%;">
+<center> <p align="center" style="max-width:80%;">
   <img src="../images/biorender.png" />
-</p></center>
-
-<center> <p align="center" style="max-width:60%;">
-  <img src="../images/cleatus.jpg" />
 </p></center>
 
 ### Microbial community ecology
