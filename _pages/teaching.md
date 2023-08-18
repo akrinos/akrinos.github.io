@@ -29,6 +29,8 @@ Arianna taught a short course in `R` programming as part of WHOI's annual Summer
 
 ### Spring 2023 STEAM night
 
+We traveled out to Wareham to reach hundreds of K-12 students at a STEAM night in May!
+
 <center><p align="center" class="center">
   <img src="../images/steam_night.jpg" />
 </p></center>
