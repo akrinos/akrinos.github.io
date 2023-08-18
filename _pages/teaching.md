@@ -20,7 +20,7 @@ Approximately **1,800 visitors** were counted strolling on the dock at WHOI this
 </p></center>
 
 <center><p align="center" class="center">
-  <img src="../images/science_stroll_2023.jpg" />
+  <img src="../images/science_stroll_2023_2.jpg" />
 </p></center>
 
 ### Summer 2023 Summer Math Review
