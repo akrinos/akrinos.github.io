@@ -188,11 +188,13 @@ collections:
     output: true
     permalink: /:collection/:path/
 
-
+excerpt_separator: <!--excerptEnd-->
+posts:
+  excerpt_separator: <!--excerptEnd-->
 # Defaults
 defaults:
   # _posts
-  posts:
+  - posts:
     excerpt_separator: <!--excerptEnd-->
 
   - scope:
