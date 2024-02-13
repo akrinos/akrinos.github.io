@@ -192,6 +192,9 @@ collections:
 # Defaults
 defaults:
   # _posts
+  posts:
+    excerpt_separator: <!--excerptEnd-->
+
   - scope:
       path: ""
       type: posts
