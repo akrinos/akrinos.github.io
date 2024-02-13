@@ -1,7 +1,6 @@
 ---
 permalink: /teaching/
 title: "Arianna's Teaching and Outreach"
-excerpt: "Arianna's experience with education"
 author_profile: true
 ---
 
