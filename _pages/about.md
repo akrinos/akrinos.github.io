@@ -9,12 +9,11 @@ redirect_from:
 
 Arianna Krinos Quinn is a microbiologist, a computational scientist, an educator, and a Ph.D. Candidate in Biological Oceanography in the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering. Arianna is jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
 
-
 <center> <p align="center" style="max-width:80%;">
   <img src="../images/biorender.png" />
 </p></center>
 
-During the 2023-2024 academic year, Arianna is a Teaching Development Fellow with the MIT Teaching & Learning Lab.
+Arianna is invested in pedagogy training and educational outreach. Arianna is currently serving as a Teaching Development Fellow (2023-2024) with the MIT Teaching & Learning Lab and a leader of the WHOI Broader Impacts Group.
 
 ### Microbial community ecology
 
@@ -32,12 +31,9 @@ So where does the computational scientist part come in? In order to assess and c
   <img src="../images/research_logo_tagged.png" />
 </p></center>
 
-As a computational scientist, Arianna is a certified Software Carpentries instructor, and is excited about pursuing diverse teaching opportunities, especially those that involve math and computation. She always learns a lot from the teaching process! During the 2023-2024 academic year, Arianna is a Teaching Development Fellow with the MIT Teaching & Learning Lab in order to foster teaching and pedagogy access in the MIT-WHOI Joint Program.
+As a computational scientist, Arianna is a certified Software Carpentries instructor, and is excited about pursuing diverse teaching opportunities, especially those that involve math and computation. She always learns a lot from the teaching process! Arianna pursued a Teaching Development Fellow with the MIT Teaching & Learning Lab in order to foster teaching and pedagogy access in the MIT-WHOI Joint Program.
 
-
-### Life at Virginia Tech
-
-Arianna graduated from Virginia Tech with degrees in Biological Sciences, Computer Science, and Computational Modeling and Data Analytics (minor in Mathematics) in 2019. During her time at Virginia Tech, she was a coach in the Virginia Tech Writing Center, the Editor-in-Chief of and a writer for _Engineers' Forum_, one of the country's last remaining student-led engineering magazines, and an avid exhibitor for local K-12 programs, including Kindergarten 2 College and the Virginia Tech Science Festival. She spent a semester as a mentor for pre-kindergarten students in the Head Start program in local Giles County while taking a course on pedagogical practices for pre-kindergarten students in rural communities.
+Previously, Arianna graduated from Virginia Tech with degrees in Biological Sciences, Computer Science, and Computational Modeling and Data Analytics (minor in Mathematics) in 2019. During her time at Virginia Tech, she was a coach in the Virginia Tech Writing Center, the Editor-in-Chief of and a writer for _Engineers' Forum_, one of the country's last remaining student-led engineering magazines, and an avid exhibitor for local K-12 programs, including Kindergarten 2 College and the Virginia Tech Science Festival. She spent a semester as a mentor for pre-kindergarten students in the Head Start program in local Giles County while taking a course on pedagogical practices for pre-kindergarten students in rural communities.
 
 <center><p align="center" style="max-width:40%;">
   <img src="../images/Smithsonian_microbe.jpeg" />
