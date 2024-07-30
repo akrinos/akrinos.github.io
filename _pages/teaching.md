@@ -18,11 +18,11 @@ Computational science suffers from below-average diversity because of a lack of 
 Approximately **1,800 visitors** were counted strolling on the dock at WHOI this year for the annual Woods Hole Science Stroll event, the first since before the pandemic! We were so glad to be able to represent the efforts of the Broader Impacts Group (BIG) at this year's event.
 
 <center><p align="center" class="center">
-  <img src="science_stroll_2023.jpg" />
+  <img src="../assets/img/science_stroll_2023.jpg" />
 </p></center>
 
 <center><p align="center" class="center">
-  <img src="science_stroll_2023_2.jpg" />
+  <img src="../assets/img/science_stroll_2023_2.jpg" />
 </p></center>
 
 ### Summer 2023 Summer Math Review
@@ -34,7 +34,7 @@ Arianna taught a short course in `R` programming as part of WHOI's annual Summer
 We traveled out to Wareham to reach hundreds of K-12 students at a STEAM night in May!
 
 <center><p align="center" class="center">
-  <img src="steam_night.jpg" />
+  <img src="../assets/img/steam_night.jpg" />
 </p></center>
 
 ### Fall 2022 outreach experiences
@@ -42,7 +42,7 @@ We traveled out to Wareham to reach hundreds of K-12 students at a STEAM night i
 Fall 2022 outreach experiences included representing WHOI at Junior Achievement's [career fair](https://twitter.com/WHOI/status/1606032077954113542), at Keith Middle School's fall [Science Nights of Wonder](https://www.linkedin.com/posts/woods-hole-oceanographic-institution_inspiration-whoi-mitabrwhoi-activity-7011797797599367168-L6Eb?utm_source=share&utm_medium=member_desktop), and in K-12 classrooms. Thanks to so many awesome people for putting these opportunities together for us to share what we do and why we love aquatic ecology and several other ocean disciplines!
 
 <center><p align="center" class="center">
-  <img src="BIGScience.jpg" />
+  <img src="../assets/img/BIGScience.jpg" />
 </p></center>
 
 ### Course design: phytoplankton physiology & ecology
@@ -54,7 +54,7 @@ Arianna designed a course in Fall 2021 on Phytoplankton Physiology & Ecology. So
 Arianna was the TA for the Spring 2022 offering of biological oceanography, which is the first-year required course for the MIT-WHOI Joint Program in Biological Oceanography. As part of this role, she prepared recitation presentations and exam reviews, and helped students learn field skills on a one-day oceanographic day trip on the R/V Tioga.
 
 <center><p align="center" class="center">
-  <img src="IMG_1339.jpeg" />
+  <img src="../assets/img/IMG_1339.jpeg" />
 </p></center>
 
 
@@ -77,11 +77,11 @@ In addition, Arianna has been a helper at the following workshops:
 In Summer 2021, Arianna taught a course about the intersection between math and environmental science to a group of 11 elementary and middle school-age children. Arianna had a fantastic time learning more about science communication, and how to market math to a group of naturalists...and to entice mathematicians to care about important word problems!
 
 <center><p align="center" class="center">
-  <img src="IMG_2326_site.jpg" />
+  <img src="../assets/img/IMG_2326_site.jpg" />
 </p></center>
 
 <center><p align="center" class="center">
-  <img src="IMG_6107_critters.JPG" />
+  <img src="../assets/img/IMG_6107_critters.JPG" />
 </p></center>
 
 
@@ -109,7 +109,7 @@ We also talked about mark-recapture and other ecological applications of Bayesia
 [Short blog post here](https://mitesp.home.blog/2020/07/29/dipping-my-toes-into-online-learning/)
 
 <center><p align="center">
-  <img src="wordcloud2.png" />
+  <img src="../assets/img/wordcloud2.png" />
 </p></center>
 
 ### Spark!, Spring 2020
@@ -121,7 +121,7 @@ Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a
 Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
 
 <center><p align="center">
-  <img src="IMG_2178.jpg" />
+  <img src="../assets/img/IMG_2178.jpg" />
 </p></center>
 
 ### Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
@@ -136,12 +136,12 @@ Examples include:
 - John Carlson Lecture, MIT (at New England Aquarium)
 
 <center><p align="center" class="center">
-  <img src="IMG_2372.JPG" />
+  <img src="../assets/img/IMG_2372.JPG" />
 </p></center>
 
 
 <center><p align="center" class="center">
-  <img src="IMG_2360.JPG" />
+  <img src="../assets/img/IMG_2360.JPG" />
 </p></center>
 
 ### Virginia Tech Science Festival
@@ -149,29 +149,29 @@ Examples include:
 Arianna designed and led activities about the importance of writing and communication in science & engineering as editor-in-chief of student-led magazine _Engineers' Forum_
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="vtscifest.png" />
+  <img src="../assets/img/vtscifest.png" />
 </p></center>
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="engineers_forum.jpg" />
+  <img src="../assets/img/engineers_forum.jpg" />
 </p></center>
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="vtscifest_2.png" />
+  <img src="../assets/img/vtscifest_2.png" />
 </p></center>
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="stormtroopers.png" />
+  <img src="../assets/img/stormtroopers.png" />
 </p></center>
 
 Arianna's designs for educational materials on local streams for an exhibit led by members of the Virginia Tech Stream Team.
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="buildastream.png" />
+  <img src="../assets/img/buildastream.png" />
 </p></center>
 
 <center><p align="center" class="center" style="max-width:60%;">
-  <img src="streamteam_present.png" />
+  <img src="../assets/img/streamteam_present.png" />
 </p></center>
 
 
