@@ -13,7 +13,7 @@ footer_text: >
   Designed by Arianna Krinos Quinn using the Jekyll al-folio theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: coccolithophore.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://akrinos.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
