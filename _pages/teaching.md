@@ -104,8 +104,6 @@ In Summer 2020, Arianna co-taught a 6-week course on Bayesian statistics to a gr
 
 We also talked about mark-recapture and other ecological applications of Bayesian analysis. See below for the slides from our second session of the course!
 
-[Sample course slides here!](https://drive.google.com/file/d/1XVsslU1polX_9KtjiNeR2sX1R_F0zO5s/view?usp=sharing)
-
 [Short blog post here](https://mitesp.home.blog/2020/07/29/dipping-my-toes-into-online-learning/)
 
 <center><p align="center">
