@@ -5,7 +5,7 @@
 title: Coccolithophores and Computing # the website title (if blank, full name will be used instead)
 first_name: Arianna
 middle_name: I.
-last_name: Krinos
+last_name: Krinos, Ph.D.
 email: akrinos@whoi.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Getting to know the research and education of Arianna Krinos Quinn, PhD.
@@ -92,7 +92,7 @@ pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
+scholar_userid: dguBKzUAAAAJ # your Google Scholar ID
 scopus_id: # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
@@ -123,15 +123,6 @@ cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
-
-# -----------------------------------------------------------------------------
-# Blog
-# -----------------------------------------------------------------------------
-
-blog_name: akrinos # blog_name will be displayed in your blog page
-blog_description: Information and contact for Arianna Krinos, PhD
-permalink: /blog/:year/:title/
-lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
@@ -165,22 +156,17 @@ disqus_shortname: # put your disqus shortname
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
