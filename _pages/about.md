@@ -46,7 +46,7 @@ As a computational scientist, Arianna is a certified Software Carpentries instru
 Previously, Arianna graduated from Virginia Tech with degrees in Biological Sciences, Computer Science, and Computational Modeling and Data Analytics (minor in Mathematics) in 2019. During her time at Virginia Tech, she was a coach in the Virginia Tech Writing Center, the Editor-in-Chief of and a writer for _Engineers' Forum_, one of the country's last remaining student-led engineering magazines, and an avid exhibitor for local K-12 programs, including Kindergarten 2 College and the Virginia Tech Science Festival. She spent a semester as a mentor for pre-kindergarten students in the Head Start program in local Giles County while taking a course on pedagogical practices for pre-kindergarten students in rural communities.
 
 <center><p align="center" style="max-width:40%;">
-  <img src="../assets/img/Smithsonian_microbe.jpeg" />
+  <img width="100%" height="auto" src="../assets/img/Smithsonian_microbe.jpeg" />
 </p></center>
 
 ### Broader interests
