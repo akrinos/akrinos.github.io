@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Meta-omic approaches for marine microbial eukaryotes
-description: with background image
+description: Computational workflows and community ecology
 img: assets/img/08-narragansett.png
 importance: 1
 category: work
