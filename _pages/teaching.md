@@ -13,9 +13,21 @@ Arianna believes teaching to be **equally important** to scholarly research. Dev
 
 Computational science suffers from below-average diversity because of a lack of effective teaching and outreach (Lang et al. 2016). Arianna is committed to creating inclusive learning experiences that illustrate the power of computing approaches across disciplines.
 
+### Summer 2024 Woods Hole Science Stroll
+
+Approximately **1,700 visitors** were counted visiting WHOI in 2024 for the annual Woods Hole Science Stroll event! We represented the Broader Impacts Group (BIG) and developed an outreach activity to represent DNA structures using candy, in addition to chatting about WHOI's academic and scientific programs.
+
+<center><p align="center" class="center">
+  <img width="100%" height="auto" src="../assets/img/scistroll_2024_1.jpg" />
+</p></center>
+
+<center><p align="center" class="center">
+  <img width="100%" height="auto" src="../assets/img/scistroll_2024_2.jpg" />
+</p></center>
+
 ### Summer 2023 Woods Hole Science Stroll
 
-Approximately **1,800 visitors** were counted strolling on the dock at WHOI this year for the annual Woods Hole Science Stroll event, the first since before the pandemic! We were so glad to be able to represent the efforts of the Broader Impacts Group (BIG) at this year's event.
+Approximately **1,800 visitors** were counted strolling on the dock at WHOI in 2023 for the annual Woods Hole Science Stroll event, the first since before the pandemic! We were so glad to be able to represent the efforts of the Broader Impacts Group (BIG) at this year's event.
 
 <center><p align="center" class="center">
   <img width="100%" height="auto" src="../assets/img/science_stroll_2023.jpg" />

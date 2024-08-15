@@ -17,27 +17,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Arianna Krinos is a microbiologist, a computational scientist, an educator, and a postdoctoral research fellow at MIT. She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
+Arianna Krinos is a microbiologist, a computational scientist, an educator, and a postdoctoral researcher at MIT. She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
 
 <center> <p align="center" style="max-width:80%;">
   <img width="100%" height="auto" src="../assets/img/biorender.png" />
 </p></center>
 
-Arianna is invested in pedagogy training and educational outreach. Arianna served as a Teaching Development Fellow (2023-2024) with the MIT Teaching & Learning Lab and as a leader of the WHOI Broader Impacts Group.
+Arianna is deeply invested in pedagogy training and educational outreach. Arianna served as a Teaching Development Fellow (2023-2024) with the MIT Teaching & Learning Lab and as a leader of the WHOI Broader Impacts Group.
 
-### Microbial community ecology
+### Microbial community ecology & physiology
 
-Arianna considers herself a microbial ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton and other microbial consortia in ecosystems, and how these roles and microbial physiology affect accounting of nutrients and other resources.
+Arianna considers herself a protistan ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton (and other protists) in ecosystems, and how these roles and microbial physiology affect cycling of nutrients and other resources.
 
 <center> <p align="center" style="max-width:60%;">
   <img width="100%" height="auto" src="../assets/img/protist_ecology_axes.png" />
 </p></center>
 
-Specifically, Arianna is interested in the *taxonomy* axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial traits to environmental change.
+Arianna is interested in the *taxonomy* axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial physiological traits to environmental change.
 
 ### Computational science
 
-In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. Arianna focuses on diversity in aquatic systems. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate microbial activity* _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
+In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate microbial activity* _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
 
 <center> <p align="center" style="max-width:60%;">
   <img width="100%" height="auto" src="../assets/img/research_logo_tagged.png" />
