@@ -30,7 +30,7 @@ Arianna is deeply invested in pedagogy training and educational outreach. Ariann
 Arianna considers herself a protistan ecologist and a computational scientist. What does this mean? Arianna's goal is to understand the role of eukaryotic phytoplankton (and other protists) in ecosystems, and how these roles and microbial physiology affect cycling of nutrients and other resources.
 
 <center> <p align="center" style="max-width:60%;">
-  <img width="100%" height="auto" src="../assets/img/protist_ecology_axes.png" />
+  <img width="100%" height="auto" src="../assets/img/pipeimage.png" />
 </p></center>
 
 Arianna is interested in the *taxonomy* axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial physiological traits to environmental change.
@@ -40,7 +40,7 @@ Arianna is interested in the *taxonomy* axis of diversity. How is diversity incr
 In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate microbial activity* _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
 
 <center> <p align="center" style="max-width:60%;">
-  <img width="100%" height="auto" src="../assets/img/research_logo_tagged.png" />
+  <img width="100%" height="auto" src="../assets/img/protist_ecology_axes.png" />
 </p></center>
 
 Arianna is a certified Software Carpentries instructor, and is excited about pursuing diverse teaching opportunities, especially those that involve math and computation. She always learns a lot from the teaching process! Arianna pursued a Teaching Development Fellow with the MIT Teaching & Learning Lab in order to foster teaching and pedagogy access in the MIT-WHOI Joint Program.
