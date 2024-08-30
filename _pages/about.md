@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Arianna Krinos is a microbiologist, a computational scientist, an educator, and a postdoctoral researcher at MIT. She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). 
+Arianna Krinos is a microbiologist, a computational scientist, an educator, and a postdoctoral researcher at MIT. She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT).
 
 <center> <p align="center" style="max-width:80%;">
   <img width="100%" height="auto" src="../assets/img/biorender.png" />
@@ -33,11 +33,11 @@ Arianna considers herself a protistan ecologist and a computational scientist. W
   <img width="100%" height="auto" src="../assets/img/pipeimage.png" />
 </p></center>
 
-Arianna is interested in the *taxonomy* axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial physiological traits to environmental change.
+Arianna is interested in the _taxonomy_ axis of diversity. How is diversity increasing or decreasing in response to environmental change? Does decreasing or increasing diversity change the overall health of the ecosystem? Strain diversity in individual species and its context within aquatic microbial communities has driven several of Arianna's recent research directions. Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial physiological traits to environmental change.
 
 ### Computational science
 
-In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in *protistan taxonomic annotation software development*, the development of *new metatranscriptome analysis techniques to evaluate microbial activity* _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
+In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in _protistan taxonomic annotation software development_, the development of _new metatranscriptome analysis techniques to evaluate microbial activity_ _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models.
 
 <center> <p align="center" style="max-width:60%;">
   <img width="100%" height="auto" src="../assets/img/protist_ecology_axes.png" />

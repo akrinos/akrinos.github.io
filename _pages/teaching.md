@@ -69,20 +69,19 @@ Arianna was the TA for the Spring 2022 offering of biological oceanography, whic
   <img width="100%" height="auto" src="../assets/img/IMG_1339.jpeg" />
 </p></center>
 
-
 ### Software Carpentries
 
 Arianna was certified with Software Carpentries in August 2020, and since has taught the following workshops:
 
-- R and the Shell, November 2020, *co-instructor*
-- Python and the Shell, June 2021, [*co-instructor*](https://alexanderlabwhoi.github.io/2021-06-14-whoipython/)
+- R and the Shell, November 2020, _co-instructor_
+- Python and the Shell, June 2021, [_co-instructor_](https://alexanderlabwhoi.github.io/2021-06-14-whoipython/)
 
 In addition, Arianna has been a helper at the following workshops:
 
-- R and the Shell, June 2023, *helper*
-- Python and the Shell, June 2020, *helper*
-- R and the Shell, June 2020, *helper*
-- Data Science, October 2020, [*helper*](https://k-rns.github.io/2020-10-26-WHOI-Data/)
+- R and the Shell, June 2023, _helper_
+- Python and the Shell, June 2020, _helper_
+- R and the Shell, June 2020, _helper_
+- Data Science, October 2020, [_helper_](https://k-rns.github.io/2020-10-26-WHOI-Data/)
 
 ### Falmouth Summer Academy
 
@@ -96,11 +95,9 @@ In Summer 2021, Arianna taught a course about the intersection between math and 
   <img width="100%" height="auto" src="../assets/img/IMG_6107_critters.JPG" />
 </p></center>
 
-
 ### Marine Biological Laboratory Physiology Course Bioinformatics Bootcamp
 
 Arianna assisted the class as a TA, including developing and teaching course materials on [transcriptomics](https://github.com/MBL-Physiology-Bioinformatics/2021-Bioinformatics-Tutorial-Materials/tree/master/transcriptomics).
-
 
 ### Summer 2021 HSSP: Modeling Demographic Dynamics in Human Populations
 
@@ -128,7 +125,7 @@ Arianna taught a 90-minute lecture on _Emiliania huxleyi_ and their viruses to a
 
 ### Kindergarten-2-College Presenter/Educator, Virginia Tech
 
-Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine *Engineers' Forum*. 
+Hosted short courses on the intersection of science and writing/journalism as Editor-in-Chief of student-run engineering magazine _Engineers' Forum_.
 
 <center><p align="center">
   <img width="100%" height="auto" src="../assets/img/IMG_2178.jpg" />
@@ -136,9 +133,10 @@ Hosted short courses on the intersection of science and writing/journalism as Ed
 
 ### Presenter at Local Science and Engineering Education Events, Virginia Tech & MIT
 
-Examples include developing presentation and educational resources for stream ecology booths, heading up a science-writing intersection booth with *Engineers' Forum*, and creating an activity on the juvenile vs. adult phase of sharks and fishes themed off of popular children's song "Baby Shark".
+Examples include developing presentation and educational resources for stream ecology booths, heading up a science-writing intersection booth with _Engineers' Forum_, and creating an activity on the juvenile vs. adult phase of sharks and fishes themed off of popular children's song "Baby Shark".
 
-Examples include: 
+Examples include:
+
 - Giles County STEM Fair
 - Virginia Tech Science Festival (4 years)
 - Price House Environmental Science Fair (VT SEEDS)
@@ -148,7 +146,6 @@ Examples include:
 <center><p align="center" class="center">
   <img width="100%" height="auto" src="../assets/img/IMG_2372.JPG" />
 </p></center>
-
 
 <center><p align="center" class="center">
   <img width="100%" height="auto" src="../assets/img/IMG_2360.JPG" />
@@ -184,38 +181,31 @@ Arianna's designs for educational materials on local streams for an exhibit led 
   <img width="100%" height="auto" src="../assets/img/streamteam_present.png" />
 </p></center>
 
+### Peer Educator/Instructor, Honors Reading Seminar (Spring 2016)
 
-### Peer Educator/Instructor, Honors Reading Seminar (Spring 2016) 
-
-Led a course in which we read and discussed three books pertaining to the impacts of media on "Generation Z", in particular the rise of networks like Nickelodeon. 
-
+Led a course in which we read and discussed three books pertaining to the impacts of media on "Generation Z", in particular the rise of networks like Nickelodeon.
 
 ### Peer Educator/Instructor, Honors First-Year Seminar (Fall 2016)
 
-Taught a class of first-year undergraduates in the Honors program, in particular about strategies for success in college, obtaining research and other experiences as an undergraduate, and making ample use of the Honors program and scholarship resources. 
-
+Taught a class of first-year undergraduates in the Honors program, in particular about strategies for success in college, obtaining research and other experiences as an undergraduate, and making ample use of the Honors program and scholarship resources.
 
 ### Peer Educator/Instructor, Honors Reading Seminar (Spring 2017)
 
 Led a reading-based course on climate change and the Anthropocene. Included developing course materials, leading discussions, and inviting guest speakers.
 
-
 ### Ambassador, General Engineering (2015-2017)
 
 Arianna mentored current first-year and prospective first-year students in the General Engineering program, and represented the department at recruiting events.
 
-
 ### Ambassador, Department of Computer Science (2018-2019)
 
-Arianna helped mentor current and prospective undergraduates in Computer Science and represented the department at recruiting events. 
-
+Arianna helped mentor current and prospective undergraduates in Computer Science and represented the department at recruiting events.
 
 ### Teaching Assistant, Biology Orientation Seminar (Fall 2017)
 
 Arianna was a teaching assistant for first-year course in Biological Sciences, including advising and mentoring students and grading assignments.
 
 ## Ongoing activities during graduate school
-
 
 ### Broader Impacts Group: Teaching and Presentations in Camps & Schools
 
@@ -224,4 +214,3 @@ As part of WHOI's Broader Impacts Group, Arianna provides occasional teaching an
 #### References
 
 Lang, C., Craig, A., & Egan, M. (2016). The importance of outreach programs to unblock the pipeline and broaden diversity in ICT education. International Journal of Information and Communication Technology Education (IJICTE), 12(1), 38-49.
-
