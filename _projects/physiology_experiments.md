@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Linking evolution 
+title: Physiology experiments to tie genetic potential to measured traits
 description: Population and community ecology via traits
 img: assets/img/tree_phaeo.png
 importance: 1
