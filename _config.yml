@@ -2,15 +2,15 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Phytoplankton Physiology & Community Ecology # Coccolithophores & Computing the website title (if blank, full name will be used instead)
+title: Aquatic Microbial Biodiversity Analytics #Phytoplankton Physiology & Community Ecology # Coccolithophores & Computing the website title (if blank, full name will be used instead)
 first_name: Arianna
-middle_name: I.
-last_name: Krinos, Ph.D.
+middle_name:
+last_name: Krinos Quinn, Ph.D.
 email: akrinos@whoi.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Arianna Krinos, PhD, phytoplankton ecologist & educator
+  Arianna Krinos Quinn, PhD, phytoplankton ecologist & educator
 footer_text: >
-  Designed by Arianna Krinos using the Jekyll al-folio theme.
+  Designed by Arianna Krinos Quinn using the Jekyll al-folio theme.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: coccolithophore.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
