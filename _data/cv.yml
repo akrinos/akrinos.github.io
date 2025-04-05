@@ -1,8 +1,22 @@
-- title: General Information
-  type: map
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: 
+#      value: Arianna Krinos Quinn
+
+- title: Experience
+  type: time_table
   contents:
-    - name: Full Name
-      value: Arianna Krinos Quinn, Ph.D.
+    - title: Postdoctoral Fellow
+      institution: Brown University
+      year: 2024 - present
+      description:
+        - Freilich Group, Department of Earth, Environmental, and Planetary Science
+    - title: Visiting Researcher
+      institution: Joint Genome Institute
+      year: 2021 - 2024
+      description:
+        - New Lineages of Life Group, JGI
 
 - title: Education
   type: time_table
@@ -27,18 +41,22 @@
         - Computational Modeling and Data Analytics
         - Minor - Mathematics
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Visiting Researcher
-      institution: Joint Genome Institute
-      year: 2021 - 2024
-      description:
-        - New Lineages of Life Group, JGI
-
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - Grants-in-Aid-of-Research, Phycological Society of America
+    - year: 2023
+      items:
+        - Graduate Teaching Award, MIT
+        - Early-Career Researcher Award, International Society for Evolutionary Protistology
+    - year: 2022
+      items:
+        - Grassle Fund Grant, MIT-WHOI Joint Program
+    - year: 2020
+      items:
+        - Ocean Venture Fund Grant, MIT-WHOI Joint Program
     - year: 2019
       items:
         - DOE Computational Science Graduate Fellowship
@@ -50,11 +68,15 @@
 - title: Academic Interests
   type: nested_list
   contents:
+    - title: Time-series and spatial community ecology of phytoplankton and other protists
+      items:
+        - Maximizing insights from community- and investment-based -omics techniques
+        - Understanding mechnisms of phytoplankton nutrient acquisition strategies and interactive dynamics
     - title: Combining modeling and -omics approaches
       items:
         - Leveraging observations to improve ecosystem model projects of phytoplankton distributions
         - Using physiological modeling to assimilate transcriptomic and proteomic data
-    - title: Improving taxonomic annotation of marine microbial eukaryotes
+    - title: Improving taxonomic annotation of aquatic microbial eukaryotes
       items:
         - EUKulele software tool
         - Clustering approaches for taxonomic annotation
