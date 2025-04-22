@@ -35,7 +35,7 @@ Arianna's research focuses on understanding the role of eukaryotic phytoplankton
 
 Arianna is particularly interested in phylogeny and genetic diversity to the extent that it determines the responsiveness of microbial physiological traits to environmental change.
 
-### Ecosystem modeling
+### Computational science
 
 In order to assess and catalog population and community diversity in microbial communities, Arianna uses a combination of experimental culture techniques and field sampling, bioinformatics and molecular methods, and ecosystem modeling. In diverse microbial communities, high-throughput computational approaches are needed to census and compare community members. To this end, Arianna is actively involved in _protistan taxonomic annotation software development_, the development of _new metatranscriptome analysis techniques to evaluate microbial activity_ _in situ_, and comparative assessment of observed population genetic diversity and theoretical predictions from models. Arianna's goal is distilling traits relevant for model parameterization from complex genetic and physiological datasets.
 
