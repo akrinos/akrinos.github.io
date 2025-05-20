@@ -37,17 +37,17 @@ Aquatic microbial eukaryotes have complex genomes that are difficult to reconstr
 ####  Marine microeukaryotic meta-omics: tool development & ecological research
 
 <center><p align="center" style="max-width:60%;">
-  <img width="100%" height="auto" src="/assets/img/01-eukrhythmic-flowchart.png" />
+  <img width="100%" height="auto" src="../assets/img/01-eukrhythmic-flowchart.png" />
 </p></center>
 
 _Metatranscriptomics_, or the measurement of the expression levels of an entire community from a single sample, has an important role to play in microbial oceanography. We often can _only get_ a single sample easily, and there's an enormous amount of uncultured diversity present in those samples. For that reason, marine metatranscriptomics have potential both to tell us about organisms that we aren't able to cultivate in the lab, and to tell us how the _expression_ of various genes changes over time. This simultaneously tells us what microbes are present in a sample, and what biogeochemical roles they might be performing.
 
 <center><p align="center" style="max-width:60%;">
-  <img width="100%" height="auto" src="/assets/img/09-tara.png" />
+  <img width="100%" height="auto" src="../assets/img/09-tara.png" />
 </p></center>
 
 I am interested in marine microbial eukaryotes, or protists, which present the secondary challenge that a lot of -omics tools are not developed for eukaryotic organisms. For this reason, I have developed _euk_`rhythmic`, a metatranscriptomic pipeline that consolidates the output of multiple individual assemblers to produce a cohesive assembly process that can be used for downstream analysis and posing meaningful biological and oceanographic questions. This work complements ongoing software development for accurate taxonomic identification of marine eukaryotes in meta-omic samples (`EUKulele`).
 
 <center><p align="center" style="max-width:60%;">
-  <img width="100%" height="auto" src="/assets/img/08-narragansett.png" />
+  <img width="100%" height="auto" src="../assets/img/08-narragansett.png" />
 </p></center>
