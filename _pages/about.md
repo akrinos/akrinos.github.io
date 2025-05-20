@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Arianna Krinos Quinn is a microbiologist, a computational scientist, an educator, and a postdoctoral researcher at Brown with the [Center for Chemical Currencies of a Microbial Planet](https://ccomp-stc.org/). She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT).
+Arianna Krinos Quinn is a microbial ecologist, a computational scientist, an educator, and a postdoctoral researcher at Brown with the [Center for Chemical Currencies of a Microbial Planet](https://ccomp-stc.org/). She received her PhD from the MIT-WHOI Joint Program in Oceanography and Applied Ocean Science and Engineering in 2024. Arianna's PhD was jointly advised by Dr. Harriet Alexander at Woods Hole Oceanographic Institution (WHOI) and Dr. Michael (Mick) Follows at the Massachusetts Institute of Technology (MIT). Arianna's research centers on how to augment rich molecular datasets with models and experiments to engage with ecological questions.
 
 <center> <p align="center" style="max-width:80%;">
   <img width="100%" height="auto" src="../assets/img/biorender.png" />
