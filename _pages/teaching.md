@@ -18,7 +18,7 @@ Computational science suffers from below-average diversity because of a lack of 
 Almost 40 students at Woods Hole Oceanographic Institution joined this year's Carpentries workshop on the shell and Python!
 
 <center><p align="center" class="center">
-  <img width="100%" height="auto" src="../assets/img/IMG_3033.jpg" />
+  <img width="100%" height="auto" src="../assets/img/IMG_3033.JPG" />
 </p></center>
 
 ### 2025 Wareham Elementary STEAM Fair
