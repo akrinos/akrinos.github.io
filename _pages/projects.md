@@ -9,7 +9,7 @@ horizontal: false
 ---
 
 ### General Project Themes
-My research projects fall into one or more of three major categories:
+My research projects to identify traits relevant to models and environmental change prediction fall into one or more of three major categories:
 
 1. **Protistan diversity and taxonomy-function relationships**
 2. **Phytoplankton succession & community dynamics**
