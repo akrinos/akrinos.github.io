@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Evolution of marine microbial eukaryotes
-description: Using molecular tools to study phylogeny
+title: Marine microbial eukaryote identification
+description: Using molecular tools to study taxonomy
 img: assets/img/tree_phaeo.png
 importance: 1
 category: work
@@ -12,3 +12,4 @@ Marine microbial eukaryotes have complex genomes that are difficult to reconstru
 
 1. Extracting genes from novel lineages from meta-omic data using clustering approaches
 2. Studying strain specificity and pangenomic variability in cosmopolitan phytoplankton taxa (_Gephyrocapsa huxleyi_)
+3. Improving a custom annotation tool for microbial eukaryotes, `EUKulele`

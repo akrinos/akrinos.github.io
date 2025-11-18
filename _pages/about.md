@@ -6,7 +6,7 @@ subtitle: <a href='#'>Current Position</a>. Postdoctoral Fellow, Brown Universit
 
 profile:
   align: right
-  image: IMG_1831.jpg
+  image: IMG_7365.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>180 Thayer Street</p>
