@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-description: Research projects
+description: Using computational science approaches to study ecosystem effects of aquatic microbial diversity
 nav: true
 nav_order: 3
 display_categories: [work]
