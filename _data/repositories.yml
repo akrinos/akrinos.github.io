@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - akrinos
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - https://github.com/AlexanderLabWHOI/EUKulele
+  - https://github.com/AlexanderLabWHOI/eukrhythmic
+  - https://github.com/AlexanderLabWHOI/2024-Krinos-Ghux-Darwin
+  - https://github.com/akrinos/tax-aliquots

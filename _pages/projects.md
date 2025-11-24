@@ -4,7 +4,7 @@ title: research
 permalink: /research/
 description: Using computational science approaches to study ecosystem effects of aquatic microbial diversity
 nav: true
-nav_order: 3
+nav_order: 4
 display_categories: [work]
 horizontal: false
 ---

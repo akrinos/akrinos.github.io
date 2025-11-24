@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Teaching, outreach, working with students
 nav: true
-nav_order: 6
+nav_order: 3
 ---
 
 ## Philosophy on teaching
