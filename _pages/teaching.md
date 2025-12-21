@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Teaching, outreach, working with students
+permalink: /Teaching/
+title: Teaching
+description: Teaching, outreach, and working with students
 nav: true
 nav_order: 3
 ---
