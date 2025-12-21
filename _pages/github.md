@@ -3,8 +3,7 @@ layout: page
 permalink: /github/
 title: github
 description: My github profile
-nav: true
-nav_order: 5
+nav: false
 ---
 
 ## My GitHub account
