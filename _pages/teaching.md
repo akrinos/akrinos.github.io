@@ -13,6 +13,10 @@ Arianna believes teaching to be **equally important** to scholarly research. Dev
 
 Computational science suffers from below-average diversity because of a lack of effective teaching and outreach (Lang et al. 2016). Arianna is committed to creating inclusive learning experiences that illustrate the power of computing approaches across disciplines.
 
+### 2026 Wareham Elementary STEAM Fair
+
+This year, we planned an activity with beads and bracelets centered around communicating the science of DNA and base pairing.
+
 ### 2025 Software Carpentries Course: Shell and Python
 
 Almost 40 students at Woods Hole Oceanographic Institution joined this year's Carpentries workshop on the shell and Python!
